@@ -1,0 +1,11 @@
+1. "ONI.txt" and "ONI_data" are the source data.
+
+2."11_16_Main code for 2018_three_lstm_ConvLSTM Encoder-Decoder Model _EMD_12_months.ipynb" is the main code for predicting the ONI values in 2018-2019. 
+
+3."11_16_Main code for the comparasion and analysis of results in the year 2018.ipynb" is the code for comparing the preditcted values from proposed approach with the values from other common models.
+
+4."The code of Predicted values from 2008 to 2017" contains the codes for predicting the ONI values during the period from 2008 to 2017
+
+5. "11_16_code for 2019_three_lstm_ConvLSTM Encoder-Decoder Model _EMD_12_months.ipynb" is the code for predicting the ONI values in 2019.
+
+6. The figure of predicted and actual ONI values during the ten period from 2008 to 2017 is depicted in "the predicted ONI values during the period from 2008 to 2017.ipynb".
