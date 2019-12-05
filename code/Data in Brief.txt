@@ -1,4 +1,4 @@
-1. "ONI.txt" and "ONI_data" are the source data.
+1. "ONI_whole_data.txt" is the  source data".    "ONI.txt and ONI_data.txt" is the processed data by the EMD technique. 
 
 2."11_16_Main code for 2018_three_lstm_ConvLSTM Encoder-Decoder Model _EMD_12_months.ipynb" is the main code for predicting the ONI values in 2018-2019. 
 
