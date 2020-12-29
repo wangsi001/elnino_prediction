@@ -1,0 +1,124 @@
+1."The code of Predicted values from 2008 to 2019" contains the codes for predicting the ONI values during the period from 2008 to 2019.
+
+2."The Code of Comparisons" contains the codes for predicting values obtained by the standalone convolutional LSTM Encoder-Decoder model,  other LSTM-based models, and  popular machine learning methodologies.
+
+3. Main_Summarize the predicted ONI values during the period from 2008 to 2019  is depicted in the predicted ONI values during the period from 2008 to 2019 and the MAE and RMSE were obtained from the proposed approach for the period 2008–2019.
+
+4.Main_Summarize the results of comparasion and analysis in the years 2018 and 2019 is the results of comparasion were evaluated in terms of MAE, RMSE, AE, or MAPE.
+ 
+5.Figures drawn code and EMD code is the data of decomposed compnents.
+
+6. "ONI_whole_data.txt" is the original ONI data".    "ONI.txt and ONI_data.txt" is the processed data by the EMD technique. 
+
+ 
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Lin Mu designed experiments;  
+Si Wang and Darong Liu completed the coding and carried out experiments; 
+Lin Mu and Si Wang analyzed experimental results;
+Si Wang, Lin Mu, and Darong Liu wrote the manuscript.
+
+ 
+
+(Philander, 1990)  (Trenberth, 1997)  (Ward et al., 2014)  
+(Tong et al., 2006)  (Wang and Chan, 2002)  (Changnon, 1999) 
+(Cane et al., 1986)  (Latif et al., 1993)  (Rosati et al., 1997) 
+(Schneider et al., 1999)  (Kirtman, 2003)  (Stockdale et al., 2011)      
+(Barnston and Ropelewski, 1992)  (Xue and Leetmaa, 2000)  (Alexander et al., 2008)  
+
+16
+(Barnett et al., 1993)  (Neelin and Dijkstra, 1995)  (Yu et al., 2014)   
+(Zhang et al., 2017)  (Hong et al., 2018)  (Barnston et al., 2012)   
+(Bauer et al., 2015)  (Capotondi et al., 2015)  (Duan and Wei, 2013)  
+
+25
+(Khashei and Bijari, 2010)  (Zhu and Chevallier, 2017)  (Lins et al., 2013)   
+(Wu et al., 2006)  (Rasouli et al., 2012)  (Zeng et al.,2011)   
+(Hochreiter and Schmidhuber,1997)  (Sutskever et al.,2014)  (Cho et al.,2014)   
+
+34
+(Bahdanau et al., 2014)  (Lu  et al., 2017)  (Chan et al., 2016)   
+(Huang  et al., 1998)  (Huang et al., 2017)  
+
+
+
+[1] S. G. Philander, “El niño, la niña, and the southern oscillation,” Tech. Rep., 1990.
+[2] K. E. Trenberth, “The definition of el nino,” Bulletin of the American Meteorological Society, vol. 78, no. 12, pp. 2771–2778, 1997.
+[3] P. J.Ward, S. Eisner, M. Flörke, M. D. Dettinger, and M. Kummu, “Annual flood sensitivities to el niño–southern oscillation at the global scale,” Hydrology and Earth System Sciences, vol. 18, no. 1, pp. 47–66, 2014.
+[4] J. Tong, Z. Qiang, Z. Deming, and W. Yijin, “Yangtze floods and droughts (china) and teleconnections with enso activities (1470–2003),” Quaternary International, vol. 144, no. 1, pp. 29–37, 2006.
+[5] B. Wang and J. C. Chan, “How strong enso events affect tropical storm activity over the western north pacific,” Journal of Climate, vol. 15, no. 13, pp. 1643–1658, 2002.
+[6] S. A. Changnon, “Impacts of 1997–98 ei niño–generated weather in the united states,” Bulletin of the American Meteorological Society, vol. 80, no. 9, pp. 1819–1828, 1999.
+[7] M. A. Cane, S. E. Zebiak, and S. C. Dolan, “Experimental forecasts of el nino,” Nature, vol. 321, no. 6073, p. 827, 1986.
+[8] M. Latif, A. Sterl, E. Maier-Reimer, and M. M. Junge, “Climate variability in a coupled gcm. part i: The tropical pacific,” Journal of climate, vol. 6, no. 1, pp. 5–21, 1993.
+[9] A. Rosati, K. Miyakoda, and R. Gudgel, “The impact of ocean initial conditions on enso forecasting with a coupled model,” Monthly weather review, vol. 125, no. 5, pp. 754–772, 1997.
+[10] E. K. Schneider, B. Huang, Z. Zhu, D. G. DeWitt, J. L. Kinter III, B. P. Kirtman, and J. Shukla, “Ocean data assimilation, initialization, and predictions of enso with a coupled gcm,” Monthly Weather Review, vol. 127, no. 6, pp. 1187–1207, 1999.
+[11] B. P. Kirtman, “The cola anomaly coupled model: Ensemble enso prediction,” Monthly weather review, vol. 131, no. 10, pp. 2324–2341, 2003.
+[12] T. N. Stockdale, D. L. Anderson, M. A. Balmaseda, F. Doblas-Reyes, L. Ferranti, K. Mogensen, T. N. Palmer, F. Molteni, and F. Vitart, “Ecmwf seasonal forecast system 3 and its prediction of sea surface temperature,” Climate dynamics, vol. 37, no. 3-4, pp. 455–471, 2011.
+[13] A. G. Barnston and C. F. Ropelewski, “Prediction of enso episodes using canonical correlation analysis,” Journal of climate, vol. 5, no. 11, pp. 1316–1345, 1992.
+[14] Y. Xue and A. Leetmaa, “Forecasts of tropical pacific sst and sea level using a markov model,” Geophysical research letters, vol. 27, no. 17, pp. 2701–2704, 2000.
+[15] M. A. Alexander, L. Matrosova, C. Penland, J. D. Scott, and P. Chang, “Forecasting pacific ssts: Linear inverse model predictions of the pdo,” Journal of Climate, vol. 21, no. 2, pp. 385–402, 2008.
+[16] T. Barnett, N. Graham, S. Pazan,W. White, M. Latif, and M. Flügel, “Enso and enso-related predictability. part i: Prediction of equatorial pacific sea surface temperature with a hybrid coupled ocean–atmosphere model,” Journal of Climate, vol. 6, no. 8, pp. 1545–1566, 1993.
+[17] J. D. Neelin and H. A. Dijkstra, “Ocean-atmosphere interaction and the tropical climatology. part i: the dangers of flux correction,” Journal of climate, vol. 8, no. 5, pp. 1325–1342, 1995.
+[18] H. Yu, J. Huang, W. Li, and G. Feng, “Development of the analogue dynamical method for error correction of numerical forecasts,” Journal of Meteorological Research, vol. 28, no. 5, pp. 934–947, 2014.
+[19] W. Zhang, G. Villarini, L. Slater, G. A. Vecchi, and A. A. Bradley, “Improved enso forecasting using bayesian updating and the north American multimodel ensemble (nmme),” Journal of Climate, vol. 30, no. 22, pp. 9007–9025, 2017.
+[20] M. Hong, X. Chen, R. Zhang, D. Wang, S. Shen, and V. P. Singh, “Forecasting experiments of a dynamical–statistical model of the sea surface temperature anomaly field based on the improved self-memorization principle,” Ocean Science, vol. 14, no. 2, pp. 301–320, 2018.
+[21] A. G. Barnston, M. K. Tippett, M. L. L’Heureux, S. Li, and D. G. DeWitt, “Skill of real-time seasonal enso model predictions during 2002–11: Is our capability increasing?” Bulletin of the American Meteorological Society, vol. 93, no. 5, pp. 631–651, 2012.
+[22] P. Bauer, A. Thorpe, and G. Brunet, “The quiet revolution of numerical weather prediction,” Nature, vol. 525, no. 7567, p. 47, 2015.
+[23] A. Capotondi, A. T. Wittenberg, M. Newman, E. Di Lorenzo, J.-Y. Yu, P. Braconnot, J. Cole, B. Dewitte, B. Giese, E. Guilyardi et al., “Understanding enso diversity,” Bulletin of the American Meteorological Society, vol. 96, no. 6, pp. 921–938, 2015.
+[24] W. Duan and C. Wei, “The spring predictability barrier for enso predictions and its possible mechanism: results from a fully coupled model,” International Journal of Climatology, vol. 33, no. 5, pp. 1280–1292, 2013.
+[25] M. Khashei and M. Bijari, “An artificial neural network (p, d, q) model for timeseries forecasting,” Expert Systems with applications, vol. 37, no. 1, pp. 479–489, 2010.
+[26] B. Zhu and J. Chevallier, “Carbon price forecasting with a hybrid arima and least squares support vector machines methodology,” in Pricing and Forecasting Carbon Markets. Springer, 2017, pp. 87–107.
+[27] I. D. Lins, M. Araujo, M. das Chagas Moura, M. A. Silva, and E. L. Droguett, “Prediction of sea surface temperature in the tropical atlantic by support vector machines,” Computational Statistics & Data Analysis, vol. 61, pp. 187–198, 2013.
+[28] A.Wu,W.W. Hsieh, and B. Tang, “Neural network forecasts of the tropical pacific sea surface temperatures,” Neural Networks, vol. 19, no. 2, pp. 145–154, 2006.
+[29] K. Rasouli,W.W. Hsieh, and A. J. Cannon, “Daily streamflow forecasting by machine learning methods with weather and climate inputs,” Journal of Hydrology, vol. 414, pp. 284–293, 2012.
+[30] Z. Zeng, W. Hsieh, A. Shabbar, and W. Burrows, “Seasonal prediction of winter extreme precipitation over canada by support vector regression,” Hydrology and Earth System Sciences, vol. 15, no. 1, pp. 65–74, 2011.
+[31] S. Hochreiter and J. Schmidhuber, “Long short-term memory,” Neural computation, vol. 9, no. 8, pp. 1735–1780, 1997.
+[32] I. Sutskever, O. Vinyals, and Q. V. Le, “Sequence to sequence learning with neural networks,” in Advances in neural information processing systems, 2014, pp. 3104–3112.
+[33] K. Cho, B. Van Merriënboer, C. Gulcehre, D. Bahdanau, F. Bougares, H. Schwenk, and Y. Bengio, “Learning phrase representations using rnn encoder-decoder for statistical machine translation,” arXiv preprint arXiv:1406.1078, 2014.
+[34] D. Bahdanau, K. Cho, and Y. Bengio, “Neural machine translation by jointly learning to align and translate,” arXiv preprint arXiv:1409.0473,2014.
+[35] J. Lu, C. Xiong, D. Parikh, and R. Socher, “Knowing when to look: Adaptive attention via a visual sentinel for image captioning,” in Proceedings of the IEEE conference on computer vision and pattern recognition, 2017, pp. 375–383.
+[36] W. Chan, N. Jaitly, Q. Le, and O. Vinyals, “Listen, attend and spell: A neural network for large vocabulary conversational speech recognition,” in 2016 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP). IEEE, 2016, pp. 4960–4964.
+[37] N. E. Huang, Z. Shen, S. R. Long, M. C. Wu, H. H. Shih, Q. Zheng, N.-C. Yen, C. C. Tung, and H. H. Liu, “The empirical mode decomposition and the hilbert spectrum for nonlinear and non-stationary time series analysis,” Proceedings of the Royal Society of London. Series A: Mathematical, Physical and Engineering Sciences, vol. 454, no. 1971, pp. 903–995, 1998.
+[38] B. Huang, P. W. Thorne, V. F. Banzon, T. Boyer, G. Chepurin, J. H. Lawrimore, M. J. Menne, T. M. Smith, R. S. Vose, and H.-M. Zhang,
+“Extended reconstructed sea surface temperature, version 5 (ersstv5): upgrades, validations, and intercomparisons,” Journal of Climate, vol. 30, no. 20, pp. 8179–8205, 2017.
+
+
+
+
+
+
+
+
+
+
+
+
